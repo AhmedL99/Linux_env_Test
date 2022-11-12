@@ -1,0 +1,3 @@
+/home/ahmed/Desktop/Environment_Test/Test/build/default/CMakeFiles/rebuild_cache.dir
+/home/ahmed/Desktop/Environment_Test/Test/build/default/CMakeFiles/edit_cache.dir
+/home/ahmed/Desktop/Environment_Test/Test/build/default/CMakeFiles/Test.dir
